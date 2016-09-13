@@ -1,0 +1,21 @@
+{
+  "name": "leo-nishizawa",
+  "version": "0.0.0",
+  "description": "Leo-Nishizawa",
+  "main": "index.js",
+  "dependencies": {},
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "LightSpeedC/leo-nishizawa"
+  },
+  "keywords": [
+    "leo-nishizawa"
+  ],
+  "author": "LightSpeedC",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
